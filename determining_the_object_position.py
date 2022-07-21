@@ -309,4 +309,3 @@ def determine_the_position (image_path):
     
     
 determine_the_position("img_red_background.jpg") 
-determine_the_position("img1_red_background.jpg") 
